@@ -27,7 +27,9 @@ The classifier could be use to prevent the introduction of negative or toxic com
   
   -  **Evaluation Data**
   -  Initially the datasets contains the Stackoverflow comments. The overall dataset contains 3097 comments labelled with positive negative and neutral sentiment.  
-The distribution of the labes are the following: 
+The distribution of the labes are the following:
+
+
  ![Alt text](image.png)
 - The preprocessing consists of the removing of the user and link, substituting the actual user or link with "@user" or "\<link>"
 - Moreover, removing of stop words and lemmatization are used. 

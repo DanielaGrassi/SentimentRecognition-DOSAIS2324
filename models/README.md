@@ -6,11 +6,11 @@
   - Model Version: 1.0
   - Model Type: Classification model 
   - Algorithms: Random Forest, Linear Regression, Gradient Boosting
-  - Features: Text related features,  i.e. 
-  - The frequency of each punctuation mark
-  - The total amount of words and characters 
-  - The total amount of uppercase characters 
-  - The total number of emoticons
+  - Features: Text related features:
+    - The frequency of each punctuation mark
+    - The total amount of words and characters 
+    - The total amount of uppercase characters 
+    - The total number of emoticons
   
 
 

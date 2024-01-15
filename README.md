@@ -1,6 +1,6 @@
 # **SENTIMENT-ANALYSYS-GROUP** #
 *Daniela Grassi , Federico Puleo , Teresa Claudia Pennacchio , Martina Grazia Asselti*
-## **Our aim is trying to classify and label comments from Stack Overflow trying to spot whether they have a positive, negative or neutral valence.**
+## **Our aim is trying to classify and label comments from Stack Overflow trying to spot whether they have a positive, negative or neutral valence using sentiment analysys.**
 
 ![Sentimet Analysys](https://www.aimtechnologies.co/wp-content/uploads/2023/08/Arabic-Sentiment-Analysis-2.jpg)
 ### Useful links:

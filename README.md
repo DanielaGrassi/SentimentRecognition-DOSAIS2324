@@ -2,6 +2,10 @@
 ## Daniela Grassi , Federico Puleo , Teresa Claudia Pennacchio , Martina Grazia Asselti ##
 ### Our aim is trying to classify and label comments from Stack Overflow trying to spot whether they have a positive, negative or neutral valence.
 
+### Useful links:
+DAGSHUB
+https://dagshub.com/DanielaGrassi/SentimentRecognition-DOSAIS2324/src/main/README.md 
+
 SentimentRecognition
 ==============================
 

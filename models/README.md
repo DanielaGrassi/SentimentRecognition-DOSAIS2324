@@ -36,6 +36,9 @@ The classifier could be use to prevent the introduction of negative or toxic com
   **-Security and privacy concerns** : the model guarantees user's privacy because it doesn't collect any information about them unless the comment they are writing.
   
   **-What data is available** : The dataset consist in a bunch of comments from StackOverflow already labeled in positive, neutral or negative.
+  
+  **22/01/2024**
+  Analyzing manually the dataset some labeling error have emerged, mostly regardid incorrect negative labeling.
 
 
 - **Factors.**

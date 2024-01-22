@@ -30,8 +30,11 @@ The classifier could be use to prevent the introduction of negative or toxic com
 ## Scritto da Federico ##
 
   **-Explainability needs** : the model doesn't need to be explained.
+  
   **-Safety and fariness concerns** : there are none.
+  
   **-Security and privacy concerns** : the model guarantees user's privacy because it doesn't collect any information about them unless the comment they are writing.
+  
   **-What data is available** : The dataset consist in a bunch of comments from StackOverflow already labeled in positive, neutral or negative.
 
 

@@ -27,9 +27,12 @@ The classifier could be use to prevent the introduction of negative or toxic com
 
   **-Evolution needs** : it depends on the flow of changing and updating language in society. Our model can be evolved every two years.
 
-Rimangono: -explainability needs, -safety and fariness concerns, -security and privacy concerns (penso vada bene guarantee privacy??) and understand what data is available. 
-  
+## Scritto da Federico ##
 
+  **-Explainability needs** : the model doesn't need to be explained.
+  **-Safety and fariness concerns** : there are none.
+  **-Security and privacy concerns** : the model guarantees user's privacy because it doesn't collect any information about them unless the comment they are writing.
+  **-What data is available** : The dataset consist in a bunch of comments from StackOverflow already labeled in positive, neutral or negative.
 
 
 - **Factors.**

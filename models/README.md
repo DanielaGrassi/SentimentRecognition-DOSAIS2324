@@ -18,7 +18,6 @@
 Classify comments from StackOverflow in terms of sentiment (positive, negative, neutral). 
 The classifier could be use to prevent the introduction of negative or toxic comments in this kind of platform.
 
-## SCRITTO DA TERRY CONTROLLARE SICURAMENTE ##
 - **Model Requirements Checklist.**
 
    **-Minimum accuracy expectations** : 90%
@@ -26,8 +25,6 @@ The classifier could be use to prevent the introduction of negative or toxic com
    **-Runtime needs** : it depends on the use. If it's an active online service (f.e. while a member writes a comment he must be alerted that he is using an unsuitable language), the runtime needs have to be of a few second. However, if the service is needed by the moderator, it can alert him event two or three times a day.
 
   **-Evolution needs** : it depends on the flow of changing and updating language in society. Our model can be evolved every two years.
-
-## Scritto da Federico ##
 
   **-Explainability needs** : the model doesn't need to be explained.
   
